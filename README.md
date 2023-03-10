@@ -24,9 +24,8 @@
 - 🥇Español (nativo)
 - 🥈Inglés (intermedio)
 
-                             # Linux Comands
-
-
+                         
+### Linux Comands
 | Commands | Description                                                    | 
 |----------|----------------------------------------------------------------|
 | cd       | Change directory                                               |  
