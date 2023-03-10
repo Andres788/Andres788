@@ -1,32 +1,34 @@
-# HOLA! 👋 Soy Andres Vargas
+# HOLA! 👋 Soy Andres Vargas #
 ## INGENIERO DE SISTEMAS Y TECNOLOGO DESARROLLADOR SOFTWARE ##
-Soy ** Full-stack-JavaScript Developer  de ** Colombia  que busca ser parte del impacto que la tecnología tiene en el desarrolla en nuestras actividades diarias. Me emociona aprender nuevas tecnologías y dar soluciones que se acomoden a las necesidades de cualquier usuario/cliente.
+  Soy **Full-stack-JavaScript Developer**  de  **Colombia**  que busca ser parte del impacto que la tecnología tiene en el desarrolla en nuestras actividades diarias. Me   emociona aprender nuevas tecnologías y dar soluciones que se acomoden a las necesidades de cualquier usuario/cliente.
 
-Me fascina ver el gran horizonte de la programación y no encontrar un final, es extraordinario saber que una simple idea es lo único que necesitas para navegar en este interminable horizonte de oportunidades.
+  Me fascina ver el gran horizonte de la programación y no encontrar un final, es extraordinario saber que una simple idea es lo único que necesitas para navegar en  -   este interminable horizonte de oportunidades.
 
-Que puedes encontrar aqui
-En este espacio podras encontrar alguno de mis proyectos, a los cuales les he dedicado tiempo para lograr la aprobación y satisfacción que brinda una aplicacion a un usuario cuando esta es prolija, amigable y util.
+### Que puedes encontrar aqui
+  En este espacio podras encontrar alguno de mis proyectos, a los cuales les he dedicado tiempo para lograr la aprobación y satisfacción que brinda una aplicacion a un   usuario cuando esta es prolija, amigable y util.
 
-Puedes encontrarme en:
-LinkedIn
-Twitter
-Correo: codervar@gmail.com
+### Puedes encontrarme en:
+- LinkedIn
+- Twitter
+- Correo: codervar@gmail.com
 
-Habilidades y competencias
-🚧Tecnologías: Javascript, React, Front HTML, CSS
-🚧Tecnologías: NodeJS,MySQL
-✏Diseño UX/UI: Figma, Adobe Photoshop.
-📽Liderazgo y gestión de proyectos
-💡Comunicación efectiva
-⏲Trabajo en equipo
-Idiomas
-🥇Español (nativo)
-🥈Inglés (intermedio)
+### Habilidades y competencias
+- 🚧Tecnologías: Javascript, React, Front HTML, CSS
+- 🚧Tecnologías: NodeJS,MySQL
+- ✏Diseño UX/UI: Figma, Adobe Photoshop.
+- 📽Liderazgo y gestión de proyectos
+- 💡Comunicación efectiva
+- ⏲Trabajo en equipo
 
-Linux Comands
-Commands	Description
 
-| Commands | Description                              | 
+### Idiomas
+- 🥇Español (nativo)
+- 🥈Inglés (intermedio)
+
+                             # Linux Comands
+
+
+| Commands | Description                                                    | 
 |----------|----------------------------------------------------------------|
 | cd       | Change directory                                               |  
 | chown    | Change file owner/group                                        | 
@@ -39,6 +41,6 @@ Commands	Description
 | wget     | Retrieve files from the World Wide Web using HTTP and FTP      |
 
 
-Alias Linux most used
-alias la='ls -A'
-alias iniweb='sudo /etc/init.d/apache2 start'
+### Alias Linux most used
+- alias la='ls -A'
+- alias iniweb='sudo /etc/init.d/apache2 start'
