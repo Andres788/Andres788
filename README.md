@@ -1,6 +1,6 @@
-# HOLA! 👋 Soy Andres Vargas #
+# HOLA! 👋 Soy Andres Vargas
 ## INGENIERO DE SISTEMAS Y TECNOLOGO DESARROLLADOR SOFTWARE ##
-Soy ** Full-stack-JavaScript Developer ** de ** Colombia ** que busca ser parte del impacto que la tecnología tiene en el desarrolla en nuestras actividades diarias. Me emociona aprender nuevas tecnologías y dar soluciones que se acomoden a las necesidades de cualquier usuario/cliente.
+Soy ** Full-stack-JavaScript Developer  de ** Colombia  que busca ser parte del impacto que la tecnología tiene en el desarrolla en nuestras actividades diarias. Me emociona aprender nuevas tecnologías y dar soluciones que se acomoden a las necesidades de cualquier usuario/cliente.
 
 Me fascina ver el gran horizonte de la programación y no encontrar un final, es extraordinario saber que una simple idea es lo único que necesitas para navegar en este interminable horizonte de oportunidades.
 
@@ -22,19 +22,23 @@ Habilidades y competencias
 Idiomas
 🥇Español (nativo)
 🥈Inglés (intermedio)
-Comandos Linux
-Lista de cinco comandos de la terminal Linux.
 
-Nombre comando	Descripción
-pwd	Muestra la ruta absoluta del directorio actual
-mkdir	Crea directorios
-cp	Copia carpetas
-rm -r	Remover carpeta de manera recursiva
-mv	Nos permite mover un archivo o carpeta dada una ruta inicial y una ruta final. También es el comando que nos permite cambiar el nombre de un archivo o carpeta.
-whoami	Muestra el nombre del usuario actual
-Comandos alias
-Lista de comandos alias.
+Linux Comands
+Commands	Description
 
-Nombre comando	Descripción
-alias rm="trash"	Sirve para evitar eliminar permanente archivos
-alias cl="clear"	Sirve para limpiar la pantalla
+| Commands | Description                              | 
+|----------|----------------------------------------------------------------|
+| cd       | Change directory                                               |  
+| chown    | Change file owner/group                                        | 
+| df       | System disk space usage                                        | 
+| grep     | Search for a string in groups of files                         | 
+| ip       | Check my IP in Linux                                           | 
+| kill     | kill Linux system processes with ID                            |  
+| ls       | File list in the current folder                                | 
+| top      | Check my IP in Linux                                           | 
+| wget     | Retrieve files from the World Wide Web using HTTP and FTP      |
+
+
+Alias Linux most used
+alias la='ls -A'
+alias iniweb='sudo /etc/init.d/apache2 start'
